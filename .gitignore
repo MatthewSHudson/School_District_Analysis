@@ -130,3 +130,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#practice file that is no longer needed
+pandas_practice.ipynb
+pandas_practice-checkpoint.ipynb
