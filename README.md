@@ -12,6 +12,10 @@ In the following list we've compiled the results of original analysis and the up
 * School Summary (The only altered row is that for Thomas High School so it is inlcuded here but the full data frames can also be viewed: [original](./Resources/Orig_School_Summary.png) and [updated](./Resources/Refact_School_Summary.png)
   * Original: ![Original_Schools](./Resources/Orig_School_Summary_One_Row.png)
   * Updated: ![Updated_Schools](./Resources/Refact_School_Summary_One_Row.png)
-* Top 5 Performing Schools
-
+* Top 5 Performing Schools:
+  * Original: ![Original_Top5](./Resources/Orig_Top_5.png)
+  * Updated: ![Updated_Top5](./Resources/Refact_Top_5.png)
+* Bottom 5 Performing Schools: 
+  * Original: ![Original_Bottom5](./Resources/Orig_Bottom_5.png)
+  * Updated: ![Updated_Bottom5](./Resources/Refact_Bottom_5.png)
 # Summary
