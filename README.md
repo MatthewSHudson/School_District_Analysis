@@ -1,9 +1,9 @@
 # School_District_Analysis
 
-# Overview
+## Overview
 The purpose of this analysis is to see how removing fraudulent grades from our original dataset would impact the resulting analysis. The removed data points were the reading and math grades for all students in the 9th grade at Thomas High School. An indentical analysis was then undertaken so that the impact on the results could be compared to our original analysis
 
-# Results
+## Results
 In the following list we've compiled the results of original analysis and the updated analysis, respectively :
 
 * District Summary: 
@@ -17,4 +17,5 @@ In the following list we've compiled the results of original analysis and the up
   * Updated: ![Updated_Top5](./Resources/Refact_Top_5.png)
 * Bottom 5 Performing Schools: (since Thomas has not moved to the bottom 5 schools, the [updated](./Resources/Refact_Bottom_5) and [original](./Resources/Orig_Bottom_5) DataFrames are identical, as such we've decided to only display one copy below)
   * Original and Updated: ![Original_Bottom5](./Resources/Orig_Bottom_5.png)
-# Summary
+* Math Scores by Grade (Again since only Thomas High School has been affected we will display the relevent rows, but see here for the [updated](./Resources/Refact_Math_Grades.png) and [original](./Resources/Orig_Math_Grades.png) 
+## Summary
