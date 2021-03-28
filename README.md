@@ -15,7 +15,6 @@ In the following list we've compiled the results of original analysis and the up
 * Top 5 Performing Schools:
   * Original: ![Original_Top5](./Resources/Orig_Top_5.png)
   * Updated: ![Updated_Top5](./Resources/Refact_Top_5.png)
-* Bottom 5 Performing Schools: 
-  * Original: ![Original_Bottom5](./Resources/Orig_Bottom_5.png)
-  * Updated: ![Updated_Bottom5](./Resources/Refact_Bottom_5.png)
+* Bottom 5 Performing Schools: (since Thomas has not moved to the bottom 5 schools, the [updated](./Resources/Refact_Bottom_5) and [original](./Resources/Orig_Bottom_5) DataFrames are identical, as such we've decided to only display one copy below)
+  * Original and Updated: ![Original_Bottom5](./Resources/Orig_Bottom_5.png)
 # Summary
